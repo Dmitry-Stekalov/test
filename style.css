@@ -1,5 +1,42 @@
 .content {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 0 auto;
+}
+.content .boll-1 {
+  background-color: red;
   width: 100px;
-  height: 200px;
-  background-color: black;
+  height: 100px;
+  border-radius: 50%;
+}
+.content .boll-2 {
+  background-color: yellow;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+.content .boll-3 {
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+.content .boll-4 {
+  background-color: rgb(255, 85, 114);
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+.content .boll-5 {
+  background-color: rgb(0, 225, 255);
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+.content .boll-6 {
+  background-color: rgb(30, 255, 0);
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
 }/*# sourceMappingURL=style.css.map */
